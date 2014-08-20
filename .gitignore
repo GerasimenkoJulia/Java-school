@@ -1,0 +1,7 @@
+Java-school.iml
+.idea
+lib/*
+target/*
+task/*
+task/.idea/workspace.xml
+src/main/java/main.java
